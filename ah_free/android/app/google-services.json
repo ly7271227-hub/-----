@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395977159249",
+    "project_id": "dkidkfnd",
+    "storage_bucket": "dkidkfnd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395977159249:android:36a233630840b4faecbe70",
+        "android_client_info": {
+          "package_name": "com.abdulhadi.alhababi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuLNzBPb0LokpIbYjYvljGUS4xsR7esiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
